@@ -1,0 +1,7 @@
+{
+  "name": "localgram",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

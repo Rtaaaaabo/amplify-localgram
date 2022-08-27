@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-localgram-dev-230325-authRole",
+      "UnauthRoleArn": "arn:aws:iam::136164370018:role/amplify-localgram-dev-230325-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::136164370018:role/amplify-localgram-dev-230325-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-localgram-dev-230325-deployment",
+      "UnauthRoleName": "amplify-localgram-dev-230325-unauthRole",
+      "StackName": "amplify-localgram-dev-230325",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:136164370018:stack/amplify-localgram-dev-230325/06d99750-215a-11ed-941b-0a7296590e69",
+      "AmplifyAppId": "dj1ancv39xcsl"
+    },
+    "categories": {
+      "auth": {
+        "localgram7d3f9701": {}
+      }
+    }
+  }
+}
